@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "\\src",
+    "\\src\\k8s",
+    "\\src\\models",
+    "\\src\\static\\assets",
+    "\\src\\static\\assets\\dist",
+    "\\src\\views\\partial"
+  ],
+  "PreviewInSolutionExplorer": false
+}
