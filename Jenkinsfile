@@ -6,7 +6,7 @@ pipeline{
 		stage("Build Docker Image"){
 			steps {
 				script{
-					dockerapp = docker.build("vandocir/kube-news:${env.BUIL_ID}","-f ./src/Dockerfile ./src")
+					dockerapp = docker.build("vandocir/kube-news:${env.BUILD_ID}","-f ./src/Dockerfile ./src")
 				}
 			}
 		}
