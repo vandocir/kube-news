@@ -4,11 +4,8 @@
     "\\k8s",
     "\\src",
     "\\src\\models",
-    "\\src\\static\\assets",
-    "\\src\\static\\assets\\dist",
     "\\src\\views",
     "\\src\\views\\partial"
   ],
-  "SelectedNode": "\\src\\views\\partial\\nav-bar.ejs",
   "PreviewInSolutionExplorer": false
 }
